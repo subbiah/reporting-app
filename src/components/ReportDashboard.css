@@ -1,0 +1,20 @@
+.report-card {
+  background: #1c223a;
+  border: 1px solid #2d3760;
+  border-radius: 10px;
+  padding: 20px;
+}
+.report-title {
+  margin-bottom: 16px;
+  font-size: 20px;
+  color: #6ea8ff;
+}
+.chart-placeholder {
+  height: 200px;
+  border: 2px dashed #2d3760;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #9aa4d3;
+  font-style: italic;
+}
